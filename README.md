@@ -6,8 +6,8 @@ DarkSword是一个基于iOS WebKit漏洞链的红队渗透测试框架，支持i
 
 ## 获取完整PRO项目
 
-如需获取完整PRO版本及技术支持，请联系Telegram：[https://t.me/xiangnan123456](https://t.me/xiangnan123456)（技术支持费用：5000U）
-
+如有完整PRO版本，请联系Telegram：https://t.me/Hey8666
+我需要完整的版本，iOS 13.0-17.2.1-  ios 18.5-18.6.2  26.1 2 3有 的联系我
 ## 功能特性
 
 ### 漏洞利用能力
